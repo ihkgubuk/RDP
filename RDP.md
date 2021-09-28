@@ -1,4 +1,4 @@
-الاسم: amazonRDP
+الاسم: AlicraftRDP
 
 تشغيل: workflow_dispatch
 
